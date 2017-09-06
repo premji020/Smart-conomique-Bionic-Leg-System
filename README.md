@@ -19,3 +19,16 @@ We are developing a 60$ bionic leg fused with smart system that comprises of mic
 We are also using a accelerometer and flex sensor that are attached to particle photon that transmits data wirelessly to cloud or mobile app for easy visualization of data. Since both the legs will have same properties they are mirror image of another one. First we will measure the activities such as aceleration and flexibility during various events such as walking, running, jogging etc,. by attaching the module to normal leg. It will be attached to the bionic leg after testing it with normal leg. And using these parameters the player will train to imitate the normal leg. Flex sensor will make sure that the flexible joint will not move further after measuring the limits from normal leg. 
 
 This will help athletes to regain their original experience that was before losing their leg and helps them to train much better.
+
+#Hardware Prerequisites
+
+Socket for housing the amputated part(https://hackaday.io/project/26362/log/65667-preparing-the-socket-for-housing-the-knee-region)
+Connector (https://hackaday.io/project/26362/log/65767-design-of-connector-between-the-amputated-part-and-foot)
+Particle Photon (https://www.sparkfun.com/products/13774)
+Analog accelerometer (https://www.sparkfun.com/products/9269)
+Flex Sensor (https://www.sparkfun.com/products/10264)
+Li-ion battery (https://www.sparkfun.com/products/13851)
+
+#Future Plan
+We are aiming to reduce the cost of sensors and microcontroller by designing in custom mode with only required materials. This will reduce the cost upto 15$ and will result in reduction of size and weight to a great extent.
+
