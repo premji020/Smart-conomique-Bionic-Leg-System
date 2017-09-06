@@ -36,5 +36,6 @@ Li-ion battery (https://www.sparkfun.com/products/13851)
 
 
 #Future Plan
+
 We are aiming to reduce the cost of sensors and microcontroller by designing in custom mode with only required materials. This will reduce the cost upto 15$ and will result in reduction of size and weight to a great extent.
 
