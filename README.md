@@ -23,11 +23,17 @@ This will help athletes to regain their original experience that was before losi
 #Hardware Prerequisites
 
 Socket for housing the amputated part(https://hackaday.io/project/26362/log/65667-preparing-the-socket-for-housing-the-knee-region)
+
 Connector (https://hackaday.io/project/26362/log/65767-design-of-connector-between-the-amputated-part-and-foot)
+
 Particle Photon (https://www.sparkfun.com/products/13774)
+
 Analog accelerometer (https://www.sparkfun.com/products/9269)
+
 Flex Sensor (https://www.sparkfun.com/products/10264)
+
 Li-ion battery (https://www.sparkfun.com/products/13851)
+
 
 #Future Plan
 We are aiming to reduce the cost of sensors and microcontroller by designing in custom mode with only required materials. This will reduce the cost upto 15$ and will result in reduction of size and weight to a great extent.
