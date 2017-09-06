@@ -1,0 +1,11 @@
+readChannelID = #####;
+fieldID1 = 1;
+readAPIKey = '###########';
+%% Read Data %%
+[data, time] = thingSpeakRead(readChannelID, 'Field', fieldID1, 'NumPoints', 10, 'ReadKey', readAPIKey);
+%% integrating values--x always lies between 0 to 1023 and y represents time %%
+x=Field;
+y=time;
+q = integral2(fun,xmin,xmax,ymin,ymax); 
+%% Visualize Data %%
+thingSpeakPlot(time, data);
